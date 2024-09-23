@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    height: 100vh;
+    background-color: black
+    flex-direction: blue;
+    gap: 100px;
+}
+
+.linhasdecard {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.container {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 270px;
+    width: 480px;
+}
+.textmateria {
+    color: aliceblue;
+    font: bold;
+    font-size: 32px;
+}
+.materia {
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.pergunta {
+    color: aqua;
+    font-size: 50px;
+}
+
+
+
